@@ -10,6 +10,7 @@ HTML, CSS<BR>
 
 ![ScreenShot](http://postimg.org/image/6xs6okatf/)
 
-![Picture](http://postimg.org/image/6xs6okatf/)
+![Picture](https://cloud.githubusercontent.com/assets/7440065/3435296/c3fdb294-0093-11e4-9a4c-6115b43e1e8d.jpg)
 
 http://postimg.org/image/6xs6okatf/
+
