@@ -10,6 +10,6 @@ HTML, CSS<BR>
 
 ![ScreenShot](http://postimg.org/image/6xs6okatf/)
 
-![alt tag](http://postimg.org/image/6xs6okatf/)
+![Picture](http://postimg.org/image/6xs6okatf/)
 
 http://postimg.org/image/6xs6okatf/
